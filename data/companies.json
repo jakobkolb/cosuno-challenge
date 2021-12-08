@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HWK Meltzer",
+    "tags": ["Sanitär", "Heitzung"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et blandit magna, in mollis libero. ",
+    "logo": "/images/icons/mayer.png"
+  },
+  {
+    "name": "HWK Schultze",
+    "tags": ["Sanitär", "Heitzung", "Klima"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et blandit magna, in liquam ac, porta et augue. Curabitur auctor efficitur lectus, vitae blandit purus facilisis quis. Etiam auctor lorem magna, eu sodales nulla aliquam vel. Donec scelerisque eu odio at bibendum. Donec non tincidunt lectus. ",
+    "logo": "/images/icons/meltzer.png"
+  },
+  {
+    "name": "Schreinerei Mayer",
+    "tags": ["Bautischler", "Möbelbau", "Restauration"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing Donec lacus libero, placerat sed aliquam ac, porta et augue. Curabitur auctor efficitur lectus, vitae blandit purus facilisis quis. Etiam auctor lorem magna, eu sodales nulla aliquam vel. Morbi condimentum elementum metus at dapibus.  ",
+    "logo": "/images/icons/schultze.png"
+  }
+]
