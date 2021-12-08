@@ -1,6 +1,6 @@
 # Cosuno Full Stack Recruiting Challenge
 
-This is a simple react webapp with a lambda function based node.js backend hosted on Netlify.
+This is a simple react webapp with a lambda function based node.js backend hosted on Netlify. Check out a preview [HERE](https://cosuno-challenge-kolb.netlify.app/)
 
 ---
 
