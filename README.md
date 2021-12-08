@@ -1,5 +1,7 @@
 # Cosuno Full Stack Recruiting Challenge
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba99b214-69ea-4a61-bf9e-bbdcbd97e5b9/deploy-status)](https://app.netlify.com/sites/cosuno-challenge-kolb/deploys)
+
 This is a simple Nextjs based react webapp. It is built with node.js lambda functions in the backend and a server side prerendered React based frontend. Check out a preview [HERE](https://cosuno-challenge-kolb.netlify.app/)
 
 ---
