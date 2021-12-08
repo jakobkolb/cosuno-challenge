@@ -7,14 +7,16 @@ import CompanyList from '../components/CompanyList';
 import React from 'react';
 
 export default function Home({ sortedCompanies }) {
-  console.log(sortedCompanies);
   return (
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Coding challenge for Cosuno: List of businesses.</p>
+        <p>
+          Coding challenge for Cosuno: List of businesses with search
+          by name and filter by specialties.
+        </p>
       </section>
       <section
         className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}
