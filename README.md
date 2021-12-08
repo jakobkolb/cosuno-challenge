@@ -7,10 +7,12 @@ This is a simple Nextjs based react webapp. It is built with node.js lambda func
 ---
 
 If I was to develop this further I would add the following features:
+* Internationalization (with a CRM in the backend so that no code people can add translations)
 * Better tag filtering component with search and autocompletion,
 * Pagination for search results,
 * Toggle for a more compact view,
 * Sorting options for results
+* Maybe a dark theme for style
 * Favorite List (Which would require user management and a proper DB in the backend)
 Later: ML based features such as 
 * more advanced filtering options that show depending on user profile and search terms
